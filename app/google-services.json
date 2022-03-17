@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457825338232",
+    "project_id": "transporteapp-3ee96",
+    "storage_bucket": "transporteapp-3ee96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457825338232:android:64e70fc1a176d73c39be8d",
+        "android_client_info": {
+          "package_name": "com.ipn.mapastt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457825338232-btsuq9n8jqb9t692o9h10lo1rkn0c03h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ipn.mapastt",
+            "certificate_hash": "3e50c60cb14c14de78b7f745f6d1387d295b4557"
+          }
+        },
+        {
+          "client_id": "457825338232-soblliilaccnd8scqkh98ocbr6ugmmur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-z6lwmJzwg2f5z7jojG9aPxGPzzG6Zvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457825338232-soblliilaccnd8scqkh98ocbr6ugmmur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
