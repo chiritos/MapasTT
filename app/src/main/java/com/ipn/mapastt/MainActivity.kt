@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.google.firebase.FirebaseApp
 
 class MainActivity : AppCompatActivity() {
 
@@ -21,9 +22,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         buttonConductor.setOnClickListener {
-            goToSelectAuth();
         }
-
     }
 
     private fun goToSelectAuth() {
